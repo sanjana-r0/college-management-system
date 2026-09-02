@@ -1,4 +1,5 @@
-students = {"100": {"name": "Default Student", "course": "CSE"}}
+
+students = {"200": {"name": "Auth User", "course": "IT"}}
 
 def add_student(id, name, course):
     students[id] = {
